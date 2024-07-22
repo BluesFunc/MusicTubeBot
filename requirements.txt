@@ -1,0 +1,6 @@
+python-telegram-bot
+fastapi[uvicorn]
+asyncio
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
